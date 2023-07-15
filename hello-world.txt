@@ -1,1 +1,4 @@
 Witaj świecie!
+Dodatkowe zmiany w pliku w ramach ćwiczeniach
+
+
